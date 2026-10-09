@@ -1,0 +1,10 @@
+/* VISIT PAGE — bright welcome with a calm booking panel */
+body[data-page="visit"] .visit-hero{background:#e66b3d}
+body[data-page="visit"] .visit-hero h1 em{color:#f8e8ca}
+body[data-page="visit"] .visit-card{box-shadow:12px 12px 0 #19251c18}
+body[data-page="visit"] .visit-content{background:#f3efe5}
+body[data-page="visit"] .visit-content h2 em{color:#b96b43}
+body[data-page="visit"] .booking-panel{border-top:4px solid #e66b3d;box-shadow:0 16px 45px #19251c0a}
+body[data-page="visit"] .field input:focus,body[data-page="visit"] .field select:focus,body[data-page="visit"] .field textarea:focus{outline:2px solid #e66b3d;outline-offset:1px}
+body[data-page="visit"] .booking-form button{width:100%}
+@media(max-width:850px){body[data-page="visit"] .visit-card{max-width:500px}}
