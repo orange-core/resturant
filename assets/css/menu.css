@@ -1,0 +1,10 @@
+/* MENU PAGE — deep green, editorial menu board */
+body[data-page="menu"] .page-hero{background:linear-gradient(115deg,#26372b 0%,#19251c 72%)}
+body[data-page="menu"] .page-hero h1 em{color:#e66b3d}
+body[data-page="menu"] .page-orbit{border-color:#e66b3d;color:#d9b56e;transform:rotate(-12deg)}
+body[data-page="menu"] .menu-intro{background:#e8e0d0}
+body[data-page="menu"] .menu-tabs button{transition:background .2s,color .2s,border-color .2s}
+body[data-page="menu"] .menu-item{padding-top:27px;padding-bottom:27px}
+body[data-page="menu"] .menu-item h3{letter-spacing:-.025em}
+body[data-page="menu"] .menu-note{background:#19251c}
+body[data-page="menu"] .menu-note h2 em{color:#e66b3d}
