@@ -1,0 +1,12 @@
+/* STORY PAGE — softer paper and original graphic artwork */
+body[data-page="story"] .story-hero{background:#ded5c3}
+body[data-page="story"] .story-hero-copy h1 em{color:#b96b43}
+body[data-page="story"] .story-art{background:radial-gradient(circle at center,#f0a078 0%,#e66b3d 62%,#d95b31 100%)}
+body[data-page="story"] .story-art:before{width:clamp(260px,32vw,430px);height:clamp(260px,32vw,430px);border-width:1px}
+body[data-page="story"] .story-art:after{width:clamp(180px,23vw,300px);height:clamp(180px,23vw,300px);border-style:dashed}
+body[data-page="story"] .story-columns{background:#f3efe5}
+body[data-page="story"] .story-columns h2 em{color:#b96b43}
+body[data-page="story"] .story-values{background:#19251c}
+body[data-page="story"] .story-values h2{max-width:600px}
+body[data-page="story"] .story-value-grid article{border-top:1px solid #596454;padding-top:22px}
+body[data-page="story"] .story-value-grid h3{font-size:22px}
