@@ -1,0 +1,8 @@
+/* HOME PAGE — cinematic editorial treatment */
+body[data-page="home"] .hero{background:radial-gradient(ellipse at 80% 20%,#344435 0%,#19251c 58%)}
+body[data-page="home"] .hero-photo{border-radius:48% 48% 2px 2px;box-shadow:18px 18px 0 #e66b3d22}
+body[data-page="home"] .ticker{letter-spacing:.2em}
+body[data-page="home"] .intro{background:#f3efe5}
+body[data-page="home"] .dish-feature{border-top:1px solid #d7cfbf;border-bottom:1px solid #d7cfbf}
+body[data-page="home"] .quote-band{background:#e9dfca}
+@media(max-width:850px){body[data-page="home"] .hero-photo{border-radius:45% 45% 0 0}}
